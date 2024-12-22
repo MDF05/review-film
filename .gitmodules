@@ -1,0 +1,6 @@
+[submodule "frontend-review-film"]
+	path = frontend
+	url = https://github.com/MDF05/frontend-review-film.git
+[submodule "backend-review-film"]
+	path = backend	
+	url = https://github.com/MDF05/Backend-review-film.git
